@@ -1,0 +1,20 @@
+html{
+    background-color: #1C609B;
+    color: #06070E;
+}
+div{
+    width: 40%;
+    background-color: aliceblue;
+    margin:15% auto;
+    padding: 2.5%;
+    box-shadow: 10px 15px #00000080;
+    border: thick solid black;
+}
+li{
+    list-style-type: circle;
+    width: 65%;
+}
+.completed{
+    color: #06070E99;
+    text-decoration: line-through #06070E80 20%;
+}
