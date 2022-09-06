@@ -18,3 +18,10 @@ li{
     color: #06070E99;
     text-decoration: line-through #06070E80 20%;
 }
+.progressPercentage{ /* WIP for progress bar */
+    border: none;
+    box-shadow: none;
+    width:10%;
+    margin: -10% 0 0 0;
+    float: right;
+}
